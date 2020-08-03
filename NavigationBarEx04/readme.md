@@ -15,7 +15,7 @@ This sample app have 3 screens: Step 1, 2 and 3.
 * You can come back to Step 2 by clicking '< Step 2' button.
 * You can come back to Step 1 by clicking '< Step 1' button.
 
-<img src="./screenshot.gif" width="480"></img>
+<img src="./screen.gif" width="480"></img>
 
 ---
 
