@@ -1,0 +1,6 @@
+framework module Pods_UITableViewEx01 {
+  umbrella header "Pods-UITableViewEx01-umbrella.h"
+
+  export *
+  module * { export * }
+}
