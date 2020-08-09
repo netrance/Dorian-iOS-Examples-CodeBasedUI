@@ -105,10 +105,10 @@ class TestExViewController: ExViewController {
 ```
 
 * Override the methods declared in UITableViewDataSource and UITableViewDelegate protocols and implemented in ExViewController class. 
-* tableView(tableView:numberOfRowsInSection:)
-  * Tests if the table view has only one section and five cells.
-* tableView(tableView:cellForRowAt)
-  * Tests if cells have right image and text. 
+  * tableView(tableView:numberOfRowsInSection:)
+    * Tests if the table view has only one section and five cells.
+  * tableView(tableView:cellForRowAt)
+    * Tests if cells have right image and text. 
 
 ```
 extension TestExViewController {
