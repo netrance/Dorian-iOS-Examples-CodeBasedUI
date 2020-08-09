@@ -16,7 +16,7 @@
 		834C99A424DB0F3700C2907A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 834C99A224DB0F3700C2907A /* LaunchScreen.storyboard */; };
 		834C99AF24DB0F3700C2907A /* ExViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834C99AE24DB0F3700C2907A /* ExViewControllerTests.swift */; };
 		834C99BA24DB0F3700C2907A /* UITableViewEx02UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834C99B924DB0F3700C2907A /* UITableViewEx02UITests.swift */; };
-		834C99C824DB102600C2907A /* NavigationBarEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834C99C724DB102500C2907A /* NavigationBarEx.swift */; };
+		834C99C824DB102600C2907A /* NavigationBarExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834C99C724DB102500C2907A /* NavigationBarExt.swift */; };
 		834C99CA24DB12A500C2907A /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834C99C924DB12A500C2907A /* MenuItem.swift */; };
 		834C99D724DF0DD400C2907A /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 834C99D624DF0DD300C2907A /* readme.md */; };
 		834C99D924DF301800C2907A /* UINavigationEx02-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 834C99D824DF301700C2907A /* UINavigationEx02-screen.png */; };
@@ -59,7 +59,7 @@
 		834C99B524DB0F3700C2907A /* UITableViewEx02UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UITableViewEx02UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		834C99B924DB0F3700C2907A /* UITableViewEx02UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITableViewEx02UITests.swift; sourceTree = "<group>"; };
 		834C99BB24DB0F3700C2907A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		834C99C724DB102500C2907A /* NavigationBarEx.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBarEx.swift; sourceTree = "<group>"; };
+		834C99C724DB102500C2907A /* NavigationBarExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBarExt.swift; sourceTree = "<group>"; };
 		834C99C924DB12A500C2907A /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		834C99D624DF0DD300C2907A /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		834C99D824DF301700C2907A /* UINavigationEx02-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UINavigationEx02-screen.png"; sourceTree = "<group>"; };
@@ -151,7 +151,7 @@
 				834C999924DB0F3500C2907A /* SceneDelegate.swift */,
 				834C999B24DB0F3500C2907A /* ExViewController.swift */,
 				834C99C924DB12A500C2907A /* MenuItem.swift */,
-				834C99C724DB102500C2907A /* NavigationBarEx.swift */,
+				834C99C724DB102500C2907A /* NavigationBarExt.swift */,
 				834C99A024DB0F3700C2907A /* Assets.xcassets */,
 				834C99A224DB0F3700C2907A /* LaunchScreen.storyboard */,
 				834C99A524DB0F3700C2907A /* Info.plist */,
@@ -419,7 +419,7 @@
 			files = (
 				834C999C24DB0F3500C2907A /* ExViewController.swift in Sources */,
 				834C999824DB0F3500C2907A /* AppDelegate.swift in Sources */,
-				834C99C824DB102600C2907A /* NavigationBarEx.swift in Sources */,
+				834C99C824DB102600C2907A /* NavigationBarExt.swift in Sources */,
 				834C999A24DB0F3500C2907A /* SceneDelegate.swift in Sources */,
 				834C99CA24DB12A500C2907A /* MenuItem.swift in Sources */,
 			);
