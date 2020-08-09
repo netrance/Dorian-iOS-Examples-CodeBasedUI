@@ -1,0 +1,6 @@
+framework module Pods_UITableViewEx02Tests {
+  umbrella header "Pods-UITableViewEx02Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
