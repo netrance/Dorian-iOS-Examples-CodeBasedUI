@@ -33,7 +33,7 @@ class ExViewController: UIViewController {
     }
 
     private func initNavigationBar() {
-        navigationItem.title = "UITableViewEx01"
+        navigationItem.title = "UITableViewEx02"
     }
 
     private func initViews() {

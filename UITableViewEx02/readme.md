@@ -10,7 +10,7 @@ This project is the 2nd example of table view based on iOS in Swift. Its definit
 
 This sample app show a table view, and each cell has a image and a text.
 
-<img src="./UINavigationEx02-screen.png" width="480"></img>
+<img src="./UITableViewEx02-screen.png" width="480"></img>
 
 Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
 

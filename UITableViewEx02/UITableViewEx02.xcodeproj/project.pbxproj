@@ -19,7 +19,6 @@
 		834C99C824DB102600C2907A /* NavigationBarExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834C99C724DB102500C2907A /* NavigationBarExt.swift */; };
 		834C99CA24DB12A500C2907A /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834C99C924DB12A500C2907A /* MenuItem.swift */; };
 		834C99D724DF0DD400C2907A /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 834C99D624DF0DD300C2907A /* readme.md */; };
-		834C99D924DF301800C2907A /* UINavigationEx02-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 834C99D824DF301700C2907A /* UINavigationEx02-screen.png */; };
 		F32491CE1FAE2EFFC09DB33B /* Pods_UITableViewEx02.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68D76673FB349C0A0E327368 /* Pods_UITableViewEx02.framework */; };
 /* End PBXBuildFile section */
 
@@ -62,7 +61,7 @@
 		834C99C724DB102500C2907A /* NavigationBarExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBarExt.swift; sourceTree = "<group>"; };
 		834C99C924DB12A500C2907A /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		834C99D624DF0DD300C2907A /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
-		834C99D824DF301700C2907A /* UINavigationEx02-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UINavigationEx02-screen.png"; sourceTree = "<group>"; };
+		83719B3424E0FBBC00F5714D /* UITableViewEx02-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UITableViewEx02-screen.png"; sourceTree = "<group>"; };
 		864D8B7FB34BDE95E269BDB9 /* Pods-UITableViewEx02.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UITableViewEx02.debug.xcconfig"; path = "Target Support Files/Pods-UITableViewEx02/Pods-UITableViewEx02.debug.xcconfig"; sourceTree = "<group>"; };
 		B30C35B408C43E52800FC3EA /* Pods-UITableViewEx02.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UITableViewEx02.release.xcconfig"; path = "Target Support Files/Pods-UITableViewEx02/Pods-UITableViewEx02.release.xcconfig"; sourceTree = "<group>"; };
 		DE3F62A29F6B9930C625B691 /* Pods-UITableViewEx02Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UITableViewEx02Tests.release.xcconfig"; path = "Target Support Files/Pods-UITableViewEx02Tests/Pods-UITableViewEx02Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -124,7 +123,7 @@
 			isa = PBXGroup;
 			children = (
 				834C99D624DF0DD300C2907A /* readme.md */,
-				834C99D824DF301700C2907A /* UINavigationEx02-screen.png */,
+				83719B3424E0FBBC00F5714D /* UITableViewEx02-screen.png */,
 				834C999624DB0F3500C2907A /* UITableViewEx02 */,
 				834C99AD24DB0F3700C2907A /* UITableViewEx02Tests */,
 				834C99B824DB0F3700C2907A /* UITableViewEx02UITests */,
@@ -289,7 +288,6 @@
 				834C99A424DB0F3700C2907A /* LaunchScreen.storyboard in Resources */,
 				834C99D724DF0DD400C2907A /* readme.md in Resources */,
 				834C99A124DB0F3700C2907A /* Assets.xcassets in Resources */,
-				834C99D924DF301800C2907A /* UINavigationEx02-screen.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
