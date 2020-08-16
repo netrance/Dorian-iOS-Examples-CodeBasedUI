@@ -94,7 +94,7 @@ lazy var exTable = UITableView().then { (table) in
 }
 ```
 
-* Step 4: Implement the data source and delegate of the table view. You can set how many rows the table has, and you can implement how the table views its rows. In this example, each cell just shows the contents of LinkItem objects.
+* Step 5: Implement the data source and delegate of the table view. You can set how many rows the table has, and you can implement how the table views its rows. In this example, each cell just shows the contents of LinkItem objects.
 
 ```
 extension ExViewController: UITableViewDataSource, UITableViewDelegate {
@@ -104,11 +104,12 @@ extension ExViewController: UITableViewDataSource, UITableViewDelegate {
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        let row = indexPath.row
         let cell = tableView.dequeueReusableCell(
             withIdentifier: String(describing: ExTableViewCell.self)
         ) as! ExTableViewCell
 
-        cell.setContent(linkItemList[indexPath.row])
+        cell.setContent(linkItemList[row], index: row)
         return cell
     }
 
