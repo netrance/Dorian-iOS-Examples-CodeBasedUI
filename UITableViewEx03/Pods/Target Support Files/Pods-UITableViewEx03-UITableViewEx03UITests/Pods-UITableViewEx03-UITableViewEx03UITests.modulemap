@@ -1,0 +1,6 @@
+framework module Pods_UITableViewEx03_UITableViewEx03UITests {
+  umbrella header "Pods-UITableViewEx03-UITableViewEx03UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
