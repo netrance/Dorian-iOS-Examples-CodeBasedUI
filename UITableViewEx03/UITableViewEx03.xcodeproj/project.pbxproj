@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		361B8D314DB81EB68EFF1F9F /* Pods_UITableViewEx03.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CDEE036AFB8CC59EADCDF582 /* Pods_UITableViewEx03.framework */; };
 		41654229BCB8EDB99B787315 /* Pods_UITableViewEx03_UITableViewEx03UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C96B61C0C22F6506DDE93EFE /* Pods_UITableViewEx03_UITableViewEx03UITests.framework */; };
+		834CDAFA24E8FCA2001A398D /* UITableViewEx03-screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 834CDAF924E8FCA2001A398D /* UITableViewEx03-screen.png */; };
 		83719AFD24E04F5200F5714D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83719AFC24E04F5200F5714D /* AppDelegate.swift */; };
 		83719AFF24E04F5200F5714D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83719AFE24E04F5200F5714D /* SceneDelegate.swift */; };
 		83719B0124E04F5200F5714D /* ExViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83719B0024E04F5200F5714D /* ExViewController.swift */; };
@@ -44,6 +45,7 @@
 		27D20146197156CE9F96820B /* Pods-UITableViewEx03.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UITableViewEx03.release.xcconfig"; path = "Target Support Files/Pods-UITableViewEx03/Pods-UITableViewEx03.release.xcconfig"; sourceTree = "<group>"; };
 		3C5A8179955D64929FC992D6 /* Pods-UITableViewEx03Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UITableViewEx03Tests.debug.xcconfig"; path = "Target Support Files/Pods-UITableViewEx03Tests/Pods-UITableViewEx03Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		7B66B995CCBB2E7B14C499EC /* Pods_UITableViewEx03Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UITableViewEx03Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		834CDAF924E8FCA2001A398D /* UITableViewEx03-screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UITableViewEx03-screen.png"; sourceTree = "<group>"; };
 		83719AF924E04F5200F5714D /* UITableViewEx03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITableViewEx03.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83719AFC24E04F5200F5714D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		83719AFE24E04F5200F5714D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 			isa = PBXGroup;
 			children = (
 				83D606AF24E4CEC8003BE36D /* readme.md */,
+				834CDAF924E8FCA2001A398D /* UITableViewEx03-screen.png */,
 				83719AFB24E04F5200F5714D /* UITableViewEx03 */,
 				83719B1224E04F5600F5714D /* UITableViewEx03Tests */,
 				83719B1D24E04F5600F5714D /* UITableViewEx03UITests */,
@@ -289,6 +292,7 @@
 				83719B0924E04F5600F5714D /* LaunchScreen.storyboard in Resources */,
 				83D606B024E4CEC8003BE36D /* readme.md in Resources */,
 				83719B0624E04F5600F5714D /* Assets.xcassets in Resources */,
+				834CDAFA24E8FCA2001A398D /* UITableViewEx03-screen.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

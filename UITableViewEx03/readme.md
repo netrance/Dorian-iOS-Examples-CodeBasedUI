@@ -10,7 +10,7 @@ This project is the 3rd example of table view based on iOS in Swift. Its definit
 
 This sample app show a table view with customized cells.
 
-<img src="./UINavigationEx03-screen.png" width="480"></img>
+<img src="./UITableViewEx03-screen.png" width="480"></img>
 
 Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
 
