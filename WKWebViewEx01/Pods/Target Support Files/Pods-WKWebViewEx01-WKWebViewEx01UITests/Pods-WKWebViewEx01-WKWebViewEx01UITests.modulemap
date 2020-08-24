@@ -1,0 +1,6 @@
+framework module Pods_WKWebViewEx01_WKWebViewEx01UITests {
+  umbrella header "Pods-WKWebViewEx01-WKWebViewEx01UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
